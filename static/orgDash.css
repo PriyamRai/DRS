@@ -1,0 +1,60 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.main-section{
+    padding-top: 120px;
+    display: flex;
+    flex-direction: column;
+}
+
+.reqCard{
+    width: 50%;
+    margin: 10px;
+}
+
+.reqCard label{
+    font-size: 20px;
+}
+.reqCard h2{
+    font-weight: bold;
+}
+
+.row1{
+    display: flex;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.plus{
+    padding: 0 !important;
+    margin: 10px !important; 
+    margin-bottom: 24px !important;
+}
+.plus a{
+    color: white;
+    font-size: 16px;
+    padding: 7px;
+    text-decoration: none;
+}
+.plus a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.alert{
+    width: 80%;
+    margin: 10px 20px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.fundPanel{
+    width: 80%;
+    margin: 10px 20px;
+    text-align: left;
+    font-size: 16px;
+}

@@ -1,0 +1,30 @@
+.mainSection{
+    height: 100%;
+}
+
+.loginHead{
+    margin-top: 120px;
+    color: blue;
+    font-weight: bold;
+    padding: 0px;
+    margin-bottom: 0;
+}
+
+.selectUserType{
+    outline: none;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+    width: 75%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.inputBorder{
+    border: 1px solid lightgray;
+    border-radius: 6px;
+}
+
+.loginBox{
+    border: 2px solid lightgray;
+    border-radius: 15px;
+}

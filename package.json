@@ -1,0 +1,16 @@
+{
+  "name": "drs",
+  "version": "1.0.0",
+  "description": "Disaster Relief System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arsh Dhaliwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "popups": "^1.1.3"
+  }
+}
